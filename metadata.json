@@ -1,0 +1,7 @@
+{
+  "name": "VOS World",
+  "description": "Local virtual-phone environment to import ROM ZIPs, run isolated guest OS virtual devices, manage persistent hardware access and backups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
